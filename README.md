@@ -1,11 +1,3 @@
-## LEED Option-II Report App
+## Repository template to write an App
 
-![App](/images/app.png)
-
-## To run the app locally
-
-- Clone the repo locally, go into the directory and run the following commands;
-
-- `pip install -r requierments.txt`
-
-- `streamlit run app.py`
+To learn how to use this repository to write and deploy an app, read [this](https://docs.pollination.cloud/user-manual/apps/deploy-app).
